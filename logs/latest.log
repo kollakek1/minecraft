@@ -1,0 +1,72 @@
+[18:12:44] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[18:12:46] [ServerMain/INFO]: Loaded 1174 recipes
+[18:12:46] [ServerMain/INFO]: Loaded 1271 advancements
+[18:12:46] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[18:12:46] [Server thread/INFO]: Loading properties
+[18:12:47] [Server thread/INFO]: This server is running Paper version git-Paper-365 (MC: 1.20.4) (Implementing API version 1.20.4-R0.1-SNAPSHOT) (Git: 1281f4f)
+[18:12:47] [Server thread/INFO]: Using 4 threads for Netty based IO
+[18:12:47] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[18:12:48] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+    We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
+    For more information please visit: https://github.com/PaperMC/Paper/issues/8948
+[18:12:48] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 3 worker threads, and gen parallelism of 3 threads
+[18:12:48] [Server thread/INFO]: Default game type: SURVIVAL
+[18:12:48] [Server thread/INFO]: Generating keypair
+[18:12:48] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:12:48] [Server thread/INFO]: Using default channel type
+[18:12:48] [Server thread/INFO]: Paper: Using Java compression from Velocity.
+[18:12:48] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
+[18:12:48] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[18:12:48] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:12:48] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:12:48] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:12:48] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:12:48] [Server thread/INFO]: Preparing level "world"
+[18:12:48] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:12:49] [Server thread/INFO]: Time elapsed: 1056 ms
+[18:12:49] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[18:12:49] [Server thread/INFO]: Time elapsed: 63 ms
+[18:12:49] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[18:12:49] [Server thread/INFO]: Time elapsed: 21 ms
+[18:12:50] [Server thread/INFO]: Running delayed init tasks
+[18:12:50] [Server thread/INFO]: Done (3.042s)! For help, type "help"
+[18:12:50] [Server thread/INFO]: Timings Reset
+[18:12:53] [User Authenticator #0/INFO]: UUID of player kollakek is 3b1053ce-7cec-3a65-9b0d-84170005977d
+[18:12:54] [Server thread/INFO]: kollakek joined the game
+[18:12:54] [Server thread/INFO]: kollakek[/[0:0:0:0:0:0:0:1]:52402] logged in with entity id 181 at ([world]-75.7725485435493, 69.0, -228.82007640031864)
+[18:13:05] [User Authenticator #0/INFO]: UUID of player d1n3x3z7 is c549c45d-cb79-309c-99a1-31b5f018a971
+[18:13:05] [Server thread/INFO]: d1n3x3z7 joined the game
+[18:13:05] [Server thread/INFO]: d1n3x3z7[/[0:0:0:0:0:0:0:1]:52410] logged in with entity id 295 at ([world]-88.5, 69.0, -220.5)
+[18:13:39] [Server thread/INFO]: kollakek lost connection: Disconnected
+[18:13:39] [Server thread/INFO]: kollakek left the game
+[18:13:39] [Server thread/INFO]: d1n3x3z7 lost connection: Disconnected
+[18:13:39] [Server thread/INFO]: d1n3x3z7 left the game
+[18:14:02] [User Authenticator #0/INFO]: UUID of player d1n3x3z7 is c549c45d-cb79-309c-99a1-31b5f018a971
+[18:14:03] [Server thread/INFO]: d1n3x3z7 joined the game
+[18:14:03] [Server thread/INFO]: d1n3x3z7[/[0:0:0:0:0:0:0:1]:52449] logged in with entity id 648 at ([world]-144.52731663017732, 72.33088254276429, -176.20468045243734)
+[18:14:09] [User Authenticator #0/INFO]: UUID of player kollakek is 3b1053ce-7cec-3a65-9b0d-84170005977d
+[18:14:10] [Server thread/INFO]: kollakek joined the game
+[18:14:10] [Server thread/INFO]: kollakek[/[0:0:0:0:0:0:0:1]:52467] logged in with entity id 706 at ([world]-83.80749554791234, 69.0, -222.08930832328602)
+[18:14:37] [User Authenticator #0/INFO]: UUID of player d1n3x3z7 is c549c45d-cb79-309c-99a1-31b5f018a971
+[18:14:37] [Server thread/INFO]: d1n3x3z7 lost connection: You logged in from another location
+[18:14:37] [Server thread/INFO]: d1n3x3z7 left the game
+[18:14:37] [Server thread/INFO]: d1n3x3z7 joined the game
+[18:14:37] [Server thread/INFO]: d1n3x3z7[/[0:0:0:0:0:0:0:1]:52501] logged in with entity id 771 at ([world]-146.87953576882614, 69.0, -202.66223190748113)
+[18:14:47] [User Authenticator #0/INFO]: UUID of player kollakek is 3b1053ce-7cec-3a65-9b0d-84170005977d
+[18:14:47] [Server thread/INFO]: kollakek lost connection: You logged in from another location
+[18:14:47] [Server thread/INFO]: kollakek left the game
+[18:14:47] [Server thread/INFO]: kollakek joined the game
+[18:14:47] [Server thread/INFO]: kollakek[/[0:0:0:0:0:0:0:1]:52513] logged in with entity id 800 at ([world]-161.08139991906356, 71.0, -185.66331950060302)
+[18:15:00] [User Authenticator #0/INFO]: UUID of player d1n3x3z7 is c549c45d-cb79-309c-99a1-31b5f018a971
+[18:15:00] [Server thread/INFO]: d1n3x3z7 lost connection: You logged in from another location
+[18:15:00] [Server thread/INFO]: d1n3x3z7 left the game
+[18:15:00] [Server thread/INFO]: d1n3x3z7 joined the game
+[18:15:00] [Server thread/INFO]: d1n3x3z7[/[0:0:0:0:0:0:0:1]:52521] logged in with entity id 851 at ([world]-149.21229477974805, 71.0, -187.1488790913352)
+[18:15:12] [Server thread/INFO]: d1n3x3z7 has made the advancement [Monster Hunter]
+[18:15:20] [Server thread/INFO]: d1n3x3z7 was slain by Zombie
+[18:16:06] [Server thread/INFO]: kollakek was slain by Zombie
+[18:16:16] [Server thread/INFO]: d1n3x3z7 lost connection: Timed out
+[18:16:16] [Server thread/INFO]: d1n3x3z7 left the game
+[18:17:40] [Server thread/INFO]: kollakek was slain by Zombie
+[18:18:11] [Server thread/INFO]: kollakek lost connection: Timed out
+[18:18:11] [Server thread/INFO]: kollakek left the game
